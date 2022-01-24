@@ -1,0 +1,24 @@
+{
+  "CapManufacturer": "EasyCap",
+  "ECGChannelCount": 0,
+  "EEGChannelCount": 64,
+  "EEGReference": "Avg",
+  "EMGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "InstitutionAddress": "9500 Gilman Drive, La Jolla, CA 92093-0515",
+  "InstitutionName": "University of California San Diego",
+  "InstitutionalDepartmentName": "Department of Cognitive Science",
+  "MiscChannelCount": 0,
+  "PowerLineFrequency": 60,
+  "RecordingDuration": 4248.1,
+  "SamplingFrequency": 1000,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "n/a"
+    }
+  },
+  "TaskDescription": "Participants were presented with simultaneous auditory and visual amplitude-modulated noise. Noise frequency spectra were white for all trials. Amplitude modulation spectra were designed to exhibit different spectral exponents between 1 and 4. ",
+  "TaskName": "MAVIS",
+  "TriggerChannelCount": 0,
+  "RecordingType": "continuous"
+}
